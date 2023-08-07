@@ -1,0 +1,2 @@
+A WebView is a component in mobile app development that allows developers to embed web content (HTML, CSS, JavaScript, etc.) into a native application. It acts as a "web browser" within the app, enabling developers to display web pages or web-based content without leaving the app's context.
+The integration of WebView component gives a fresh view to the UI (User Interface) Design and it betters and enhances the UX (User experience). 
